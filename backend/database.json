@@ -1,0 +1,63 @@
+{
+  "metroRoutes":[
+    {
+      "source":"MG Road",
+      "destination":"Rajajinagar",
+      "stops":[
+        "Cubbon Park",
+        "Dr BR Ambedkar Station",
+        "Majestic",
+        "Mahalakshmi"
+      ],
+      "line":"Purple Line",
+      "platform":"2",
+      "fare":"₹50",
+      "time":"45 min"
+    }
+  ],
+
+  "rides":[
+    {
+      "type":"Metro",
+      "price":"₹50",
+      "time":"45 min",
+      "comfort":"⭐⭐⭐⭐⭐"
+    },
+
+    {
+      "type":"BMTC",
+      "price":"₹30",
+      "time":"70 min",
+      "comfort":"⭐⭐⭐"
+    },
+
+    {
+      "type":"Auto",
+      "price":"₹120-150",
+      "time":"50 min",
+      "comfort":"⭐⭐⭐"
+    },
+
+    {
+      "type":"Uber",
+      "price":"₹250-300",
+      "time":"40 min",
+      "comfort":"⭐⭐⭐⭐⭐"
+    },
+
+    {
+      "type":"Rapido",
+      "price":"₹100-130",
+      "time":"35 min",
+      "comfort":"⭐⭐⭐"
+    }
+  ],
+
+  "language":[
+    {
+      "english":"Where is nearest metro station?",
+      "kannada":"ಹತ್ತಿರದ ಮೆಟ್ರೋ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+      "roman":"Hattirada Metro Nildaana Ellide"
+    }
+  ]
+}
